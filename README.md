@@ -24,7 +24,7 @@ I am 38, live in France, curiosity and eagerness to learn are my engines to gain
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [**Carnet de Voyage**](https://github.com/O-clock-Hyperion/projet-carnet-voyage.git)  
+- 🔭 I’m currently working on [**Formula One Prediction**](https://github.com/Sebastien-Cailleau/project_prediction)  
   
 
 - 🌱 I’m currently learning **React** and **Python**  
