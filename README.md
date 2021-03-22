@@ -24,10 +24,10 @@ I am 38, live in France, curiosity and eagerness to learn are my engines to gain
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [**Formula One Prediction**](https://github.com/Sebastien-Cailleau/project_prediction)  
+- 🔭 I’m currently working on **Python** with *FastApi* 
   
 
-- 🌱 I’m currently learning **React** and **Python**  
+- 🌱 I’m currently learning **NuxtJS**
   
 
 - ❓ Ask me about anything related to **PHP, Symfony and related technologies**  
