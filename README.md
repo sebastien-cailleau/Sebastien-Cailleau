@@ -27,16 +27,16 @@ I am 38, live in France, curiosity and eagerness to learn are my engines to gain
 - 🔭 I’m currently working on **Python** with *FastApi* 
   
 
-- 🌱 I’m currently learning **NuxtJS**
+- 🌱 I’m currently learning **Docker**
   
 
-- ❓ Ask me about anything related to **PHP, Symfony and related technologies**  
+- ❓ Ask me about anything related to **Python, FastApi and related technologies**  
   
 
 - ⚡ I’m looking to collaborate on any **open source project**  
   
 
-- *📬 How to reach me sebastien.cailleau.dev@gmail.com*  
+- *📬 How to reach me sebastien.cailleau@protonmail.com*  
 
 
 </td><td valign="top" width="50%">
